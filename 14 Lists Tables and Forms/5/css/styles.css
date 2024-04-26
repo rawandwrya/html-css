@@ -1,0 +1,21 @@
+body {
+    padding-left: 10%;
+    padding-top: 5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+th,td {
+    width: 155px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+th {
+    text-align: left;
+    border-top: 1px solid rgb(212, 208, 208);
+    border-bottom: 2px solid black;
+}
+tr.even {
+    background-color: rgb(207, 206, 206);
+}
+td.currency {
+    text-align: right;
+}

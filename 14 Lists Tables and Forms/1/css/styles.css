@@ -1,0 +1,8 @@
+body {
+    padding-left: 80px;
+    padding-top: 30px;
+}
+ol {
+    list-style-type: lower-roman;
+    font-weight: bold;
+}

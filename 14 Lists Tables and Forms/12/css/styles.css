@@ -1,0 +1,19 @@
+a {
+    margin-left: 50%;
+    margin-top: 50%;
+    /* 
+    A list of cursor options below:
+    ________________________________
+    cursor: auto;
+    cursor: crosshair;
+    cursor: default;
+    cursor: pointer;
+    cursor: move;
+    cursor: text;
+    cursor: wait;
+    cursor: help;
+    cursor: url("cursor.gif");
+    */
+    cursor: pointer;
+
+}

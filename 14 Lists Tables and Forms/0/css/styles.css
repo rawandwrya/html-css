@@ -1,0 +1,112 @@
+body {
+    background-color: rgb(235, 235, 235);
+}
+h1 {
+    color: rgb(77, 76, 76);
+}
+ul {
+    list-style-image: url("../images/resized_bullet_pnt_btn.png");
+    
+}
+
+
+
+/* TABLE STYLING */
+
+table{
+
+    border-collapse: collapse;
+}
+th {
+    background-color: rgb(72, 72, 96);
+    color: azure;
+    border: 1px solid grey;
+    border-top: none;
+    border-bottom: 1px solid grey;
+    height: 28px;
+    text-shadow: 0px 0px 1px;
+}
+#cell_a11 {
+    border-radius: 5px 0 0 0;
+    border-left: none;
+}
+#cell_a14 {
+    border-radius: 0 5px 0 0;
+    border-right: none;
+}
+td {
+    border: 0.75px solid rgb(193, 193, 193);
+    height: 50px;
+}
+td {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.col1 {
+    width: 230px;
+    border-left: none;
+    font-weight: bold;
+
+}
+.col2, .col3, .col4 {
+    width: 135px;
+}
+.col4 {
+    width: 120px;
+}
+tr:nth-child(odd) {
+    background-color: rgb(227, 241, 249);
+}
+tr:nth-child(even) {
+    background-color: rgb(211, 235, 250);
+}
+
+
+/* FORM STYLING */
+
+fieldset {
+    position: relative;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right:30px;
+    width: 320px;
+    background-color: white;
+}
+.form_field {
+    position: relative;
+    bottom: 0;
+    margin-top: 10px;
+    height: 23px;
+}
+    
+.form_label {
+    position: absolute;
+    left: 0;
+}
+.form_input {
+    position: absolute;
+    right: 0;
+
+}
+select {
+    position: absolute;
+    right: 48px;
+}
+.drop_down_field {
+    margin-top: 20px;
+}
+.radio_btns {
+    position: absolute;
+    right: 70px;
+}
+.radio_field {
+    margin-top: 20px;
+}
+
+button{
+    position: absolute;
+    right: 0;
+    border-radius: 10px;
+}
+

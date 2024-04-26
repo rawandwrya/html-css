@@ -1,0 +1,24 @@
+.body_container {
+    display: block;
+}
+#register_button {
+    font-size: 120%;
+    border-radius: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+    color: #444444;
+    text-shadow: 0px 1px 1px #ffffff;
+    border: 1px solid #a4a4a4;
+    background-color: #b9e4e3;
+    text-shadow: 0px 1px 1px #ffffff;
+    border-bottom: 2x solid #b2b2b2;
+}
+#register_button:hover {
+    color: #333333;
+    border: 1px solid #a4a4a4;
+    border-top: 2px solid #b2b2b2;
+    background-color: #a0dbc4;
+}

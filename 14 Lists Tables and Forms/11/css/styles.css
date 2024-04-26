@@ -1,0 +1,31 @@
+div {
+    width: 250px;
+    padding:10px 25px;
+    border-bottom: 1px solid grey;
+}
+.title {
+    float: left;
+    /* border: 1px solid grey; */
+    width: 60px;
+    text-align: center;
+    font-weight: bold;
+}
+#name_input, #email_input {
+    margin-left: 5px;
+}
+.radio_txt {
+    font-weight: bold;
+}
+
+/* 
+ span {
+    border: 1px solid grey;
+}  
+*/
+
+button {
+    width: 70px;
+    margin-left: 180px;
+    border-radius: 10px;
+}
+

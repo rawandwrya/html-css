@@ -1,0 +1,17 @@
+body {
+    padding-top: 5%;
+    padding-left: 7%;
+
+}
+
+h1 {
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: circle;
+    list-style-position: inside;
+}
+li {
+    width: 290px;
+}

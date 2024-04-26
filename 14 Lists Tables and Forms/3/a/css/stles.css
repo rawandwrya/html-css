@@ -1,0 +1,11 @@
+body {
+    padding: 10%;
+}
+
+ul {
+    list-style-position: inside;
+}
+li {
+    margin-top: 2%;
+    width: 250px
+}

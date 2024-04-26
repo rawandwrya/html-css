@@ -1,0 +1,44 @@
+<!DOCTYPE html5>
+<html>
+    <head>
+        <title>Sample Form</title>
+        <link
+        href="css\styles.css"
+        rel="stylesheet"
+        >
+    </head>
+    <body>
+        <form>
+            <div class="form">
+                <div class="labels">
+                    <label for="text_input">TextInput:</label>
+                    <label for="password" class="pass_field">Password:</label>
+                    <label for="text_area" class="te_area_field">Text area:</label>
+                    <label for="options" class="options_field_label">Options Dropdown:</label>
+                    <label class="radios_field">Radio Buttons:</label>
+                    <input type="submit" id="submit" name="submit_button" class="sub_field">
+                </div>
+                <div class="inputs">
+                    <input type="text" id="text_input" name="text_input">
+                    <input type="password" id="password" name="password" class="pass_field">
+                    <textarea id="text_area" name="text_area" rows="3" class="te_area_field"></textarea>
+                    <select id="options" name="options" class="options_field">
+                        <option>Option 1</option>
+                        <option>Option 2</option>
+                        <option>Option 3</option>
+                        <option>Option 4</option>
+                        <option>Option 5</option>
+                    </select>
+                    <div class="radios_field">
+                        <input type="radio" id="raio1" name="radio" ><label for="radio1" >Radio 1</label>
+                        <input type="radio" id="raio2" name="radio" ><label for="radio2" >Radio 2</label>
+                        <input type="radio" id="raio3" name="radio" ><label for="radio3" >Radio 3</label>
+                    </div>
+                    <div class="check_field">
+                        <input type="checkbox" id="checkbox" name="checkbox" ><label for="checkbox" >Check Box</label>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </body>
+</html>

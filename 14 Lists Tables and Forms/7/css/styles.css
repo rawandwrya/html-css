@@ -1,0 +1,46 @@
+body{
+    padding-left: 10%;
+    padding-top: 5%;
+}
+form {
+    display: flex;
+    padding: 5px;
+}
+.form {
+    border: 1px solid black;
+    display: flex;
+}
+.labels, .inputs {
+    padding: 5px;
+}
+.pass_field {
+    display: block;
+    margin-top: 5px;
+}
+.te_area_field {
+    display: block;
+    margin-top: 15px;
+}
+
+.options_field_label {
+    display: block;
+    margin-top: 53px;
+}
+.options_field {
+    display: block;
+    margin-top: 15px;
+}
+
+.radios_field {
+    display: block;
+    margin-top: 15px;
+}
+
+.check_field {
+    display: block;
+    margin-top: 15px;
+}
+.sub_field {
+    display: block;
+    margin-top: 45px;
+}

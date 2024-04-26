@@ -1,0 +1,10 @@
+body {
+    padding-left: 10%;
+    padding-top: 5%;
+}
+ul {
+    list-style-image: url("..\\images\\image.png");
+}
+li {
+    margin: 10px 0px 0px 0px;
+}
