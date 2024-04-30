@@ -4,6 +4,18 @@ This repository contains the **HTML + CSS** source code that I have writen while
 
 The repository is divided into numbers representing the chapter of the book.
 
+
+# HTML + CSS<br>Chapter 13: Boxes
+Chapter Project Sample Output:
+<img src="sample_outputs/13/0.png">
+1. Ecommerce Format
+<img src="sample_outputs/13/1.png">
+2. Hiding VS Scrolling extra text
+<img src="sample_outputs/13/2.png">
+3. Different types of border outlines
+<img src="sample_outputs/13/3.png">
+
+
 # HTML + CSS<br>Chapter 14: Lists, Tables and Forms
 Chapter Project Sample Output:
 <img src="sample_outputs/14/0.png">

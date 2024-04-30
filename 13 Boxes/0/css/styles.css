@@ -1,0 +1,44 @@
+body {
+    border: 8px double black;
+    text-align: center;
+}
+#logo {
+    display: inline-block;
+    width: 50%;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    border-bottom: 5px solid black;
+}
+.nav_item {
+    display: inline;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+.nav_item:hover {
+    color: darkred;
+    cursor: pointer;
+    font-weight: bold;
+}
+#navigation_bar {
+    display: inline-block;
+    width: 50%;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-bottom: 3px solid black;
+}
+#content_img {
+    display: inline-block;
+    width: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.content_img {
+    width: 100%;
+
+}
+p {
+    display: inline-block;
+    width: 50%;
+    font-size: larger;
+}

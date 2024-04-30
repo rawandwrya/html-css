@@ -1,0 +1,22 @@
+table {
+    max-width: 20px;
+}
+th {
+    color: rgb(67, 67, 251);
+    border-bottom: 1px solid rgb(67, 67, 251);
+    text-align: left;
+    padding: 0;
+}
+h1 {
+    margin: 0px;
+    padding: 0px;
+}
+p {
+    max-height: 70px;
+}
+.one {
+    overflow: hidden;
+}
+.two {
+    overflow: scroll;
+}
