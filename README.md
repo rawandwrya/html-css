@@ -1,8 +1,18 @@
 # HTML & CSS<br>design and build websites<br><br>Exersise Sample Codes and Sample Outputs
 
-This repository contains the **HTML + CSS** source code that I have writen while studying the "*HTML & CSS design and build websites*" book by Jon Duckett. The repository contains a comprehensive list of html and css codes that would recreat the sample outputs from the book.
+This repository contains the **HTML + CSS** source code that I have writen while studying the "*HTML & CSS design and build websites*" book by Jon Duckett. The repository contains a comprehensive list of the html and css codes that I found useful to recreat as practice.
+The repository is divided into numbers representing the chapters of the book.
 
-The repository is divided into numbers representing the chapter of the book.
+
+
+# HTML + CSS<br>Chapter 11: Color
+Chapter Project Sample Output:
+<img src="sample_outputs/11/0.png">
+1. Simple Background Color Setting
+<img src="sample_outputs/11/1.png">
+2. Opacity Manipulation of Colors
+<img src="sample_outputs/11/2.png">
+
 
 
 # HTML + CSS<br>Chapter 13: Boxes
@@ -14,6 +24,7 @@ Chapter Project Sample Output:
 <img src="sample_outputs/13/2.png">
 3. Different types of border outlines
 <img src="sample_outputs/13/3.png">
+
 
 
 # HTML + CSS<br>Chapter 14: Lists, Tables and Forms
