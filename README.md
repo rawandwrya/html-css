@@ -56,3 +56,19 @@ Chapter Project Sample Output:
 <img src="sample_outputs/14/11.png">
 12. Cursor Styling 
 <img src="sample_outputs/14/12.png">
+
+# HTML + CSS<br>Chapter 15: Layouts
+Chapter Project Sample Output:
+<img src="sample_outputs/15/0.jpg">
+1. Blobk-level vs Inline elements
+<img src="sample_outputs/15/1.png">
+2. Element containment and float elements while preserving container height
+<img src="sample_outputs/15/2.png">
+3. Fixed header with scrollable content
+<img src="sample_outputs/15/3.png">
+4. Quote display
+<img src="sample_outputs/15/4.png">
+5. Clearing floats, preserving height of parent of floating elements, displaying paragraph sections as floats.
+<img src="sample_outputs/15/5.png">
+6. More styling exercise
+<img src="sample_outputs/15/6.png">

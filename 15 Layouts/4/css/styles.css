@@ -1,0 +1,31 @@
+body {
+    padding-left: 20px;
+    padding-top: 50px;
+}
+h1 {
+    font-size: 60px;
+    color: rgb(75, 41, 41);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+blockquote {
+    float: right;
+    font-size: 50px;
+    color: rgb(75, 41, 41);
+    width: 33%;
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
+    border-top: 3px solid gray;
+    border-bottom: 3px solid gray;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    vertical-align: top;
+    margin-top: 0px;
+}
+p {
+    font-size: 30px;
+    color: rgb(75, 41, 41);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

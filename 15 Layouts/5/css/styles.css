@@ -1,0 +1,29 @@
+
+h1 {
+    font-size: 36px;
+}
+#content {
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.paragraph {
+    float: left;
+    margin-top: 10px;
+    margin-right: 3%;
+    width: 30%;
+    vertical-align: top;
+    font-size: 18px;
+}
+.four {
+    clear: left;
+}
+b {
+    display: block;
+    text-align: center;
+    
+    font-size: 36px;
+}
+.height_keeper {
+    clear: both;
+}

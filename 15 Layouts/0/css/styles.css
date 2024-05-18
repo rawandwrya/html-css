@@ -1,0 +1,113 @@
+body {
+    background-image: url("../images/bg.jpg");
+    background-size: auto 100%;
+    padding: 0px;
+}
+.height_keeper {
+    clear: both;
+    margin: 0px;
+}
+#header {
+    background-color: rgba(97, 97, 97, 0.4);
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+#content {
+    width: 70%;
+    margin-left: 15%;
+    /* border: 1px solid white; */
+    
+}
+
+h1 {
+    float: left;
+    color: yellow;
+    font-size: 1em;
+    vertical-align: top;
+    margin: 0px;
+    padding: 0px;
+}
+#logo {
+    display: block;
+    width: 12em;
+    color: yellow;
+    font-size: 3em;
+}
+ul {
+    float: right;
+    vertical-align: top;
+    margin: 20px 0 0 0;
+    padding: 0px;
+}
+li {
+    color: white;
+    display: inline;
+    font-family: monospace; 
+
+}
+
+.three_columns {
+    width: 75%;
+}
+.two_columns {
+    width: 50%;
+}
+.one_column {
+    width: 20%;
+}
+.intro_title_container {
+    float: right;
+}
+.intro_title {
+    color: rgb(184, 184, 184);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    margin: 50px 0 0 0;
+    padding: 0;
+    font-weight: 20;
+}
+.bicycle_img_div{
+    display: inline-block;
+}
+.bicycle_img {
+    width: 100%;
+    margin-top: -200px;
+    margin-left: -30px;
+}
+.intro_content {
+    display: inline-block;
+    color: white;
+    vertical-align: top;
+    margin-top: 30px;
+}
+p {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: white;
+}
+.content_top {
+    border-bottom: 1px solid white;
+}
+.articles_header {
+    margin-left: 4%;
+}
+.column1, .column2, .column3, .column4 {
+    float: left;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+.article_img {
+    width: 100%;
+    height: 160px;
+}
+.arti_1, .arti_2, .arti_3 {
+    border-bottom: 1px solid white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 50px;
+}

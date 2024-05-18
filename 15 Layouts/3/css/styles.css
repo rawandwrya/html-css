@@ -1,0 +1,25 @@
+
+#header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    background-color: rgb(168, 167, 167);
+
+    padding: 5px 20px;
+    height: 80px;
+}
+
+h1 {
+    margin: 10px 0px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(41, 41, 41);
+}
+#content {
+    margin-top: 95px;
+}
+
+p {
+    font-size: 36px;
+}

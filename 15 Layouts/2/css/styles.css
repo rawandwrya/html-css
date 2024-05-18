@@ -1,0 +1,124 @@
+
+body {
+    background-color: rgb(61, 61, 61);
+}
+#container {
+    width: 980px;
+    border: 2px solid white;
+}
+.grid_12 {
+    width: 960px;
+    border: 2px solid orange;
+    margin: 10px;
+}
+/* __________________________________________________________ */
+
+#header {
+    padding: 0px;
+    padding-bottom: 20px;
+}
+h2 {
+    display: inline-block;
+    background-color: gray;
+    color: white;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 220px;
+    
+    margin-top: 5px;
+    margin-left: 5px;
+    vertical-align: top;
+
+}
+.nav {
+    display: inline-block;
+    background-color: white;
+    width: 480px;
+    margin-top: 5px;
+    margin-right:5px;
+    margin-left: 230px;
+    padding-top: 5px;
+    height: 25px;
+}
+ul {
+    list-style-type: disc;
+    list-style-position: inside;
+    padding: 0px;
+    margin: 0px;
+    display: inline-block;
+    width: 480px;
+}
+li {
+    float: left;
+    margin: 0px;
+    width: 25%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+#nav_item_one {
+    float: left;
+    width: 25%;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+
+}
+/* ____________________________________________________________ */
+.p1 {
+    float: left;
+    background-color: white;
+    width: 795;
+    vertical-align: top;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+    font-size: 18px;
+    padding-top: 30px;
+    padding-left: 20px;
+    height: 100px;
+}
+.small_img {
+    vertical-align: top;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+    width: 62px;
+    float: left;
+}
+.big_img {
+    vertical-align: top;
+    float: left;
+    width: 139px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+.p2 {
+    float: left;
+    vertical-align: top;
+    background-color: white;
+    width: 651px;
+    vertical-align: top;
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: 18px;
+    padding-top: 30px;
+    padding-left: 20px;
+    height: 109px;
+    margin-bottom: 5px;
+}
+.height_fixer {
+    clear: both;
+    margin: 0px;
+    padding: 0px;
+} 
+/* ____________________________________________________________ */
+.footer_p {
+    background-color: white;
+    margin: 5px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
